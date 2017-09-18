@@ -47,8 +47,11 @@ namespace SoccerStats
 
 					soccerResults.Add(values);
 				}
+
 			}
 			return soccerResults;
 		}
+
+	
 	}
 }
